@@ -26,5 +26,5 @@ The APTOS 2019 blindness detection dataset used in this research.  It contains a
 This repository contains the code files of the Prediction of Diabetic Retinopathy using deep learning Research
 
 - EDA of the dataset (blindness-detection-eda)
-- Experiment 1 (DR_detection_first_experiement_all_models)
+- Experiment 1 (final-models)
 - Experiment 2 (DR_detection_experiments2balanced_aug_dataset)
